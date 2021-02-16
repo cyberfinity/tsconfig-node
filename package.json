@@ -1,0 +1,27 @@
+{
+  "name": "@cyberfinity/tsconfig-node",
+  "version": "0.0.0",
+  "description": "Shared tsconfig for Cyberfinity Node.js projects",
+  "main": "tsconfig.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "config",
+    "shared"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cyberfinity/tsconfig-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cyberfinity/tsconfig-node/issues"
+  },
+  "homepage": "https://github.com/cyberfinity/tsconfig-node#readme",
+  "author": "James Nash (https://cirrus.twiddles.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "@tsconfig/node10": "^1.0.7"
+  }
+}
