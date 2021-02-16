@@ -1,6 +1,6 @@
 {
   "name": "@cyberfinity/tsconfig-node",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Shared tsconfig for Cyberfinity Node.js projects",
   "main": "tsconfig.json",
   "scripts": {
